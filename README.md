@@ -52,4 +52,8 @@ Visit [http://localhost:4173/](http://localhost:4173/) to view the webapp
 
 
 ## Credit 
+[@HieuPham](https://github.com/Toidicodedao69)
 [@lecatos](https://github.com/lecatos)
+[@NgHongWee](https://github.com/Squishyblox)
+[@StuartHigham](https://github.com/StuartHigham)
+Jabez Tang Hong Jun
